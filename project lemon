@@ -1,0 +1,2 @@
+django-admin startproject little_lemon
+cd little_lemon
